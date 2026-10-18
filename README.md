@@ -30,10 +30,8 @@ Working across three layers of the computing stack — from silicon to toolchain
 
 ## 🔭 Current Focus
 
-- 🛡️ Security core for **RISC-V**
 - 🚀 Task-parallel **HLS** compilation for FPGA accelerators — [TAPA](https://github.com/ForBloodB/tapa)
-- 🔨 Open-source **ASIC flow** from RTL to GDSII — [SiliconTrace](https://github.com/ForBloodB/SiliconTrace)
-
+- 
 ## 🧰 Tech Stack
 
 | Domain | Tools &amp; Skills |
@@ -49,8 +47,6 @@ Working across three layers of the computing stack — from silicon to toolchain
 |---|---|
 | [**TAPA**](https://github.com/ForBloodB/tapa) | Task-parallel HLS compiler that turns task-parallel programs into high-performance FPGA accelerators |
 | [**XLS**](https://github.com/ForBloodB/xls) | Accelerated hardware synthesis — retargetable HLS and optimization |
-| [**SiliconTrace**](https://github.com/ForBloodB/SiliconTrace) | 硅迹开源 · 不依赖商业 License，用 Yosys / OpenROAD / SKY130 走通 RTL→GDSII 的完整开源芯片链路 |
-| [**snake_game**](https://github.com/ForBloodB/snake_game) | 贪吃蛇小游戏（C++） |
 
 ## 📊 GitHub Stats
 
