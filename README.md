@@ -31,7 +31,7 @@ Working across three layers of the computing stack — from silicon to toolchain
 ## 🔭 Current Focus
 
 - 🚀 Task-parallel **HLS** compilation for FPGA accelerators — [TAPA](https://github.com/ForBloodB/tapa)
-- 
+
 ## 🧰 Tech Stack
 
 | Domain | Tools &amp; Skills |
@@ -45,8 +45,8 @@ Working across three layers of the computing stack — from silicon to toolchain
 
 | Project | Description |
 |---|---|
-| [**TAPA**](https://github.com/ForBloodB/tapa) | Task-parallel HLS compiler that turns task-parallel programs into high-performance FPGA accelerators |
-| [**XLS**](https://github.com/ForBloodB/xls) | Accelerated hardware synthesis — retargetable HLS and optimization |
+| [**TAPA**](https://github.com/ForBloodB/tapa) | 将 TAPA（task-parallel HLS 编译器）移植到 V80 |
+| [**XLS**](https://github.com/ForBloodB/xls) | 将 XLS（加速硬件综合）移植到其他 FPGA 工具链 |
 
 ## 📊 GitHub Stats
 
